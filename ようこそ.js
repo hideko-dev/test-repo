@@ -1,3 +1,0 @@
-こんにちはtv
-import exports
-あｎっよはせよ
